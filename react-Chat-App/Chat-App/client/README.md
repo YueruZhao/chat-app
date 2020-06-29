@@ -1,15 +1,3 @@
-## React Realtime Chat App
-React.js, Socket.io, Node.js
-
-## Project Demo:
-![Screenshot](chat-app/react-Chat-App/Chat-App/docs/screenshot1.png)
-
-
-
-## Reference:
-https://www.youtube.com/watch?v=ZwFA3YMfkoc&t=711s
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
